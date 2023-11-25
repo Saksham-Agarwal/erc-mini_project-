@@ -4,4 +4,4 @@
 
 
 
-i had no idea the readme text looks so below at the large of the screen
+i had no idea the readme text looks so big below at the large of the screen
