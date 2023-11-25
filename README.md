@@ -1,0 +1,3 @@
+# erc-mini_project-
+
+# THE CSV FILES ARE PRESENT INSIDE A FOLDER "MNIST_CSV" 
